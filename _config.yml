@@ -13,6 +13,10 @@ logo:
 home: 
   limit_services: 6
 
+footer:
+  copyright: "© 2022 FG-AI4H"
+  enable_copyright: false
+
 collections:
   services:
     output: true
